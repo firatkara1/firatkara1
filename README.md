@@ -9,6 +9,9 @@ I'm Fırat from Turkey. I do android and web development. I'm really having fun 
 
 <hr></hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firatkara1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr></hr>
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/firatkara1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firatkara1" height="30" width="40" /></a>
